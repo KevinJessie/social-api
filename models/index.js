@@ -1,6 +1,8 @@
-// dependencies
-
-const { User } = require('../user');
-const Thought = require('../thought');
+const User = require('./User');
+const Thought = require('./Thought');
 
 module.exports = { User, Thought };
+
+
+
+
