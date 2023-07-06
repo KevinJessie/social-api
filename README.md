@@ -23,4 +23,7 @@ npm start
 \`\`\`
 
 ## Questions
-If you have any questions about this repository, open an issue or contact me directly at [${email}](mailto:${Kevinjessie32@yahoo.com}). You can find more of my work at [${KevinJessie}](
+If you have any questions about this repository, open an issue or contact me directly at [${kevinjessie32@yahoo.com}](mailto:${email}). You can find more of my work at [${github}](KevinJessie).
+
+`;
+}   
